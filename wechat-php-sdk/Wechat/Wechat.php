@@ -9,7 +9,8 @@
 namespace Wechat;
 
 
-class Wechat
-{
-
+class Wechat{
+    public function index(){
+        return '测试';
+    }
 }
